@@ -236,18 +236,7 @@ footer h1{
 	color: #777;
 }
 
-@media(min-width:768px){
-	.zone-adaptive{width:750px;
-	}
-}
-@media(min-width:992px){
-	.zone-adaptive{width:970px;
-	}
-}
-@media(min-width:1200px){
-	.zone-adaptive{width:1170px;
-	}
-}
+
 
 
 
