@@ -235,7 +235,7 @@ footer h1{
 	padding-top: 30px;
 	color: #777;
 }
-.zone-adaptive{ background: orange;}
+
 @media(min-width:768px){
 	.zone-adaptive{width:750px;
 	}
